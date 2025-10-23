@@ -11,9 +11,9 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "./icon512.png",
+      "src": "./icon512.jpeg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "/Image.jpg"
     }
   ]
 }
